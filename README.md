@@ -9,4 +9,6 @@ Ez a projekt a népszerű Flappy Bird játékot valósítja meg hardveres körny
 * **A cél:** Az alsó és felső sávban érkező akadályok (falak) elkerülése.
 * **Játék vége:** Ütközés esetén a játék véget ér, és a kijelzőn megjelenik az addig elért pontszám, ami az elkerült akadályok száma.
 
+
 <img width="1080" height="609" alt="Flappy Bird áramkör és szimuláció" src="https://github.com/user-attachments/assets/5997445b-fad1-459e-a51c-4da4a25ff2c2" />
+<img width="691" height="844" alt="image" src="https://github.com/user-attachments/assets/f0991bc0-0e2a-4c06-9688-6e83ec084080" />
