@@ -11,6 +11,4 @@ Ez a projekt a népszerű Flappy Bird játékot valósítja meg hardveres körny
 
 ## Bekötés / Szimuláció
 
-Az alábbi képeken látható az áramkör bekötési rajza és a szimuláció működés közben:
-
 <img width="1080" height="609" alt="Flappy Bird áramkör és szimuláció" src="https://github.com/user-attachments/assets/5997445b-fad1-459e-a51c-4da4a25ff2c2" />
